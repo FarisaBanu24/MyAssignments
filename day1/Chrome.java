@@ -16,13 +16,6 @@ public class Chrome {
 				+"\n" +"check if latestversion: " +islatest
 				+"\n" + "Keyword is : " +shortkey);
 				
-		
-		
-		
-				
-				
-		
-				
 				
 	}
 
